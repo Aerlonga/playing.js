@@ -1,6 +1,5 @@
 # playing.js
 EN{
-
 A locale where I can practice what I'm learning without any concerns, just playing with different approaches. 
 }
 
